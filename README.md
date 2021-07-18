@@ -2,7 +2,7 @@
 - 👀 I’m interested in badminton
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me with email. yongle.chan@gmailc.om
+- 📫 Reach me with email. yongle.chan@gmail.com
 
 <!---
 ChanYongLe/ChanYongLe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
